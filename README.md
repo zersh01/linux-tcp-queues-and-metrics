@@ -33,7 +33,6 @@ Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
 ## Автор
 zersh01[](https://github.com/zersh01)  
-Оригинальная схема: [ссылка на источник, если есть — например, gist / issue / telegram]
 
 Связанные проекты:
 - [iptables_interactive_scheme](https://github.com/zersh01/iptables_interactive_scheme) — интерактивная схема iptables/netfilter
