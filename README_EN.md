@@ -2,8 +2,7 @@
 
 Detailed diagram of the Linux TCP stack: incoming & outgoing connections, queues (SYN, Accept, backlog), drops, TcpExt metrics, netfilter hooks, conntrack, and tuning points.
 
-![Linux TCP Stack Diagram — Incoming / Outgoing, Queues, TcpExt Metrics](images/tcp-stack-ru.png)  
-*(English version of the diagram coming soon — tcp-stack-en.png)*
+![Linux TCP Stack Diagram — Incoming / Outgoing, Queues, TcpExt Metrics](images/tcp-stack-en.svg)  
 
 ## Key Parts Covered
 - Incoming path: NIC → RX Ring → Netfilter PREROUTING/INPUT → SYN Queue → Accept Queue → Application
