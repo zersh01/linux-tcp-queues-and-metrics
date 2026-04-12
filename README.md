@@ -1,3 +1,7 @@
+
+[**Русский**] | [English](README_EN.md) | [Français](README_FR.md)
+---
+
 # Linux TCP Queues and Metrics
 
 Детальная схема пути TCP-соединений в ядре Linux: входящий и исходящий трафик, очереди, причины дропов, метрики TcpExt, netfilter hooks, conntrack и точки тюнинга.

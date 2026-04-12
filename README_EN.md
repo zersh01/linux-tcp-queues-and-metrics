@@ -1,3 +1,7 @@
+
+[Русский](README.md) | [**English**] | [Français](README_FR.md)
+---
+
 # Linux TCP Queues and Metrics
 
 Detailed diagram of the Linux TCP stack: incoming & outgoing connections, queues (SYN, Accept, backlog), drops, TcpExt metrics, netfilter hooks, conntrack, and tuning points.
