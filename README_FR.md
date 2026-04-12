@@ -36,14 +36,6 @@ Ce diagramme est conçu pour comprendre et déboguer rapidement les serveurs TCP
 
 - Il est recommandé de l’ouvrir en plein écran ou de le redimensionner (surtout pour le format SVG).
 
-## Support multilingue
-
-- Russe — principal (README.md + diagramme tcp-stack-ru.png)
-
-- Anglais — README_EN.md + modèle tcp-stack-en.png
-
-- Pour information : des diagrammes dans d’autres langues (chinois, allemand, etc.) peuvent être ajoutés aux fichiers images/ et aux fichiers README_*.md séparés.
-
 ## Licence
 Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
